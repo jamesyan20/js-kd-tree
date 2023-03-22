@@ -1,0 +1,15 @@
+{
+  "name": "kd-tree-js",
+  "version": "1.0.0",
+  "description": "A simple KD tree library for JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yanz",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
